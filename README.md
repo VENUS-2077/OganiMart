@@ -1,7 +1,7 @@
 # OganiMart
 
 A web‑based grocery store application built with PHP & MySQL (XAMPP).  
-Users can browse products, add to cart, manage wallets, and—depending on their role—administer products or handle delivery.
+Users can browse products, add to cart, manage wallets, and depending on their role can administer products or handle delivery.
 
 ---
 
